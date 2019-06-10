@@ -7,4 +7,4 @@
 
 \f0\fs24 \cf0 git is a version control system \
 git is free software\
-}
+git is a distributed version control system}
